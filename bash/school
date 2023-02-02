@@ -1,0 +1,4 @@
+:echo School > bash/school
+clear
+
+echo :echo School
